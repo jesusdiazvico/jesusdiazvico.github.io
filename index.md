@@ -14,12 +14,10 @@ I hold a PhD in Computer Science from the [UAM](http://www.uam.es) (2015), an MS
 
 Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus). 
 
-## Thesis
+## Others
 
 * PhD Thesis: ["Design and Implementation of Secure Protocols for Practical Authentication and Fair Anonymity Systems"](https://www.iacr.org/phds/index.php?p=detail&entry=1462).
 * MSc Thesis: ["Steganography and Steganalysis: Data Hiding in Vorbis Audio Streams"](http://oa.upm.es/8989/2/TESIS_MASTER_JESUS_DIAZ_VICO.pdf)
-
-## Books
  * [¿Qué sabemos de Blockchain?](https://www.catarata.org/libro/blockchain_94238/) Educational book about blockchain (only in Spanish).
  
 # Projects
