@@ -17,7 +17,7 @@ Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus).
 ## Others
 
 * PhD Thesis: ["Design and Implementation of Secure Protocols for Practical Authentication and Fair Anonymity Systems"](https://www.iacr.org/phds/index.php?p=detail&entry=1462).
-* MSc Thesis: ["Steganography and Steganalysis: Data Hiding in Vorbis Audio Streams"](http://oa.upm.es/8989/2/TESIS_MASTER_JESUS_DIAZ_VICO.pdf)
+* MSc Thesis: ["Steganography and Steganalysis: Data Hiding in Vorbis Audio Streams"](http://oa.upm.es/8989/2/TESIS_MASTER_JESUS_DIAZ_VICO.pdf).
  * [¿Qué sabemos de Blockchain?](https://www.catarata.org/libro/blockchain_94238/) Educational book about blockchain (only in Spanish).
  
 # Projects
