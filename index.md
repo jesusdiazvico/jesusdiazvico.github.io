@@ -14,7 +14,7 @@ I hold a PhD in Computer Science from [UAM](http://www.uam.es) (2015), an MSc in
 
 Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus). 
 
-## Others
+## Other
 
 * PhD Thesis: ["Design and Implementation of Secure Protocols for Practical Authentication and Fair Anonymity Systems"](https://www.iacr.org/phds/index.php?p=detail&entry=1462).
 * MSc Thesis: ["Steganography and Steganalysis: Data Hiding in Vorbis Audio Streams"](http://oa.upm.es/8989/2/TESIS_MASTER_JESUS_DIAZ_VICO.pdf).
