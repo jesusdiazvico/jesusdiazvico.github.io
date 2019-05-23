@@ -20,7 +20,7 @@ Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus).
 * MSc Thesis: ["Steganography and Steganalysis: Data Hiding in Vorbis Audio Streams"](http://oa.upm.es/8989/2/TESIS_MASTER_JESUS_DIAZ_VICO.pdf)
 
 ## Books
- * [¿Qué sabemos de Blockchain?](https://www.catarata.org/libro/blockchain_94238/) Educational book about blockchain technologies (only available in Spanish).
+ * [¿Qué sabemos de Blockchain?](https://www.catarata.org/libro/blockchain_94238/) Educational book about blockchain (only in Spanish).
  
 # Projects
  * [libgroupsig](https://bitbucket.org/jdiazvico/libgroupsig). An extensible C library for group signatures.
