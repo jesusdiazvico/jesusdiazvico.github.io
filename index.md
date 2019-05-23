@@ -8,8 +8,6 @@ Previously, I held R&D positions in the industry at [BBVA Next Technologies](htt
 
 Academically, I have a PhD in Computer Science from the [Universidad Autónoma de Madrid](http://www.uam.es) (2015), an MSc in Information Technologies from the [Universidad Politécnica de Madrid](http://www.upm.es/) (2010) and an MSc in Computer Sciences from the Universidad Autónoma de Madrid (2007). I have also collaborated with several research labs, such as the [Network Security Lab](http://security.cs.columbia.edu/labs.html) at Columbia University, UPM's [CriptoLab](https://tirnanog.ls.fi.upm.es) and UPM's [Quantum Information and Computation Group](http://www.gcc.fi.upm.es/en/home.html).
 
-More details are available in my [LinkedIn profile](https://www.linkedin.com/in/jesusdiazvico/).
-
 # Publications
 
 ## Papers
