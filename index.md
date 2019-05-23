@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Jesus Diaz Vico
 
-You can use the [editor on GitHub](https://github.com/jesusdiazvico/jesusdiazvico.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Brief bio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a postdoctoral researcher in the Cryptography group of [IBM Research Zurich](https://www.zurich.ibm.com/crypto/) since May 2019.
 
-### Markdown
+Academically, I have a PhD in Computer Science from the Universidad Autónoma de Madrid (2015), an MSc in Information Technologies from the Universidad Politécnica de Madrid (2010) and an MSc in Computer Sciences from the Universidad Autónoma de Madrid (2007). I have also collaborated with several research labs, such as the [Network Security Lab](http://security.cs.columbia.edu/labs.html) at Columbia University, UPM's [CriptoLab](tirnanog.ls.fi.upm.es) and UPM's [Quantum Information and Computation Group](http://www.gcc.fi.upm.es/en/home.html).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Professionally, I worked at [BBVA Next Technologies](https://www.bbvanexttechnologies.com/), [Redsys](https://www.redsys.es) and the Spanish National Cybersecurity Institute ([INCIBE](https://www.incibe.es)), besides several other prior part-time positions.
 
-```markdown
-Syntax highlighted code block
+More details are available in my [LinkedIn profile](https://www.linkedin.com/in/jesusdiazvico/).
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
 
-- Bulleted
-- List
+Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus).
 
-1. Numbered
-2. List
+# Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jesusdiazvico/jesusdiazvico.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am reachable at [jesus.diaz.vico@gmail.com](mailto:jesus.diaz.vico@gmail.com), Twitter ([@jesusdiazvico](https://twitter.com/jesusdiazvico)) and [LinkedIn](https://www.linkedin.com/in/jesusdiazvico/).
