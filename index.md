@@ -26,4 +26,4 @@ Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus).
 
 # Contact
 
-I am reachable at [jesus.diaz.vico@gmail.com](mailto:jesus.diaz.vico@gmail.com), Twitter ([@jesusdiazvico](https://twitter.com/jesusdiazvico)) and [LinkedIn](https://www.linkedin.com/in/jesusdiazvico/).
+I am reachable by email at [jesus.diaz.vico@gmail.com](mailto:jesus.diaz.vico@gmail.com), Twitter ([@jesusdiazvico](https://twitter.com/jesusdiazvico)) and [LinkedIn](https://www.linkedin.com/in/jesusdiazvico/).
