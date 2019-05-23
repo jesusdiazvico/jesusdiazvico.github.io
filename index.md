@@ -24,7 +24,7 @@ Check my [DBLP page](https://dblp.org/pers/hd/d/Diaz:Jesus).
 ## Books
  * [¿Qué sabemos de Blockchain?](https://www.catarata.org/libro/blockchain_94238/) Educational book about blockchain technologies (only available in Spanish).
  
- # Projects
+# Projects
  * [libgroupsig](https://bitbucket.org/jdiazvico/libgroupsig). An extensible C library for group signatures.
 
 # Contact
