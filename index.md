@@ -1,6 +1,6 @@
 ## Jesus Diaz Vico
 
-# Brief bio
+# Bio
 
 I am a postdoctoral researcher in the Cryptography group of [IBM Research Zurich](https://www.zurich.ibm.com/crypto/) since May 2019.
 
