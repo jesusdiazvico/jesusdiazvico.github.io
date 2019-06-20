@@ -6,7 +6,7 @@ I am a postdoctoral researcher in the [Cryptography group](https://www.zurich.ib
 
 Previously, I held industry R&D positions at [BBVA Next Technologies](https://www.bbvanexttechnologies.com/), [Redsys](http://www.redsys.es/en/index.html) and the Spanish National Cybersecurity Institute ([INCIBE](https://www.incibe.es/en)), besides several other prior part-time positions.
 
-I hold a PhD in Computer Science from [UAM](http://www.uam.es) (2015), an MSc in Information Technologies from [UPM](http://www.upm.es/) (2010) and an MSc in Computer Science from UAM (2007). I have also collaborated with several research labs, such as the [Network Security Lab](http://security.cs.columbia.edu/labs.html) at Columbia University, UPM's [CriptoLab](https://web.archive.org/web/20110714005747/http://tirnanog.ls.fi.upm.es/) and UPM's [Quantum Information and Computation Group](http://www.gcc.fi.upm.es/en/home.html).
+I hold a PhD in Computer Science from [UAM](http://www.uam.es) (2015), an MSc in Information Technologies from [UPM](http://www.upm.es/) (2010) and a BSc+MSc in Computer Science from UAM (2007). I have also collaborated with several research labs, such as the [Network Security Lab](http://security.cs.columbia.edu/labs.html) at Columbia University, UPM's [CriptoLab](https://web.archive.org/web/20110714005747/http://tirnanog.ls.fi.upm.es/) and UPM's [Quantum Information and Computation Group](http://www.gcc.fi.upm.es/en/home.html).
 
 # Publications
 
