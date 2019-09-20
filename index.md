@@ -22,6 +22,7 @@ Check them in [DBLP](https://dblp.org/pers/hd/d/Diaz:Jesus) or [Google Scholar](
  
 # Projects
  * [libgroupsig](https://bitbucket.org/jdiazvico/libgroupsig). An extensible C library for group signatures.
+ * [vorbistego](https://github.com/jesusdiazvico/vorbistego). An (old) prototype of a steganographic system over Vorbis audio streams. 
 
 # Contact
 
