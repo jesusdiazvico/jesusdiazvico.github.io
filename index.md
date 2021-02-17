@@ -2,7 +2,7 @@
 
 # Bio
 
-I am a postdoctoral researcher in the [Cryptography group](https://www.zurich.ibm.com/crypto/) at [IBM Research Zurich](https://www.zurich.ibm.com/) since May 2019.
+I am a researcher in the [Cryptography group](https://www.zurich.ibm.com/crypto/) at [IBM Research Zurich](https://www.zurich.ibm.com/) since May 2019.
 
 Previously, I held industry R&D positions at [BBVA Next Technologies](https://www.bbvanexttechnologies.com/), [Redsys](http://www.redsys.es/en/index.html) and the Spanish National Cybersecurity Institute ([INCIBE](https://www.incibe.es/en)), besides several other prior part-time positions, accounting for 8 years FTE.
 
