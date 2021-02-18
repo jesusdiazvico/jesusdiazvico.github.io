@@ -21,7 +21,7 @@ Check them in [DBLP](https://dblp.org/pers/hd/d/Diaz:Jesus) or [Google Scholar](
  * [¿Qué sabemos de Blockchain?](https://www.catarata.org/libro/blockchain_94238/) Educational book about blockchain (only in Spanish).
  
 # Projects
- * [libgroupsig](https://bitbucket.org/jdiazvico/libgroupsig). An extensible C library for group signatures.
+ * [libgroupsig](https://github.com/IBM/libgroupsig). An extensible C library for group signatures.
  * [vorbistego](https://github.com/jesusdiazvico/vorbistego). An (old) prototype of a steganographic system over Vorbis audio streams. 
 
 # Contact
