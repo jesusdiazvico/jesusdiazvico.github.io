@@ -27,6 +27,6 @@ Check them in [DBLP](https://dblp.org/pers/hd/d/Diaz:Jesus) or [Google Scholar](
 
 # Contact
 
-I am reachable by email at [jesus.diaz.vico@gmail.com](mailto:jesus.diaz.vico@gmail.com), Twitter ([@jesusdiazvico](https://twitter.com/jesusdiazvico)) and [LinkedIn](https://www.linkedin.com/in/jesusdiazvico/).
+I am reachable by email at [jesus.diaz.vico@gmail.com](mailto:jesus.diaz.vico@gmail.com), and [LinkedIn](https://www.linkedin.com/in/jesusdiazvico/). I am jesusdiazvico at [X/Twitter](https://x.com/jesusdiazvico) [BlueSky](https://bsky.app/profile/jesusdiazvico.bsky.social), and [Warpcast](https://warpcast.com/jesusdiazvico).
 
 GPG key [30FD B54C 5079 32EB 8D9A B36C 78A7 3BB7 B1A4 6D35](https://keybase.io/jesusdiazvico/pgp_keys.asc?fingerprint=30fdb54c507932eb8d9ab36c78a73bb7b1a46d35).
