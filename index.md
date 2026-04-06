@@ -2,7 +2,7 @@
 
 # Bio
 
-I am a cryptography researcher in [IOHK](https://iohk.io) since September 2021.
+I joined [IOHK](https://iohk.io) since September 2021, where I am the applied cryptography lead in R&D.
 
 Previously, I held industry R&D positions at the [Foundations of Cryptography group](https://www.zurich.ibm.com/crypto/) in [IBM Research Zurich](https://www.zurich.ibm.com/), [BBVA Next Technologies](https://www.bbvanexttechnologies.com/), [Redsys](http://www.redsys.es/en/index.html) and the Spanish National Cybersecurity Institute ([INCIBE](https://www.incibe.es/en)), besides several other prior part-time positions, accounting for 15+ years FTE.
 
