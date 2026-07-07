@@ -12,7 +12,11 @@ I hold a PhD in Computer Science from [UAM](http://www.uam.es) (2015), an MSc in
 
 ## Papers
 
-Check them in [DBLP](https://dblp.org/pers/hd/d/Diaz:Jesus) or [Google Scholar](https://scholar.google.com/citations?user=mHPICkQAAAAJ&hl=es). 
+Check them in [DBLP](https://dblp.org/pers/hd/d/Diaz:Jesus) or [Google Scholar](https://scholar.google.com/citations?user=mHPICkQAAAAJ&hl=es).
+
+## Patents
+
+Check them in [Google Patents](https://patents.google.com/?inventor=Jesus+Diaz+Vico).
 
 ## Other
 
